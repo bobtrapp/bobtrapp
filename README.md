@@ -15,10 +15,12 @@
 ### Links
 
 [Linked In](https://www.linkedin.com/in/bobtrapp/)
+
 [BobTrapp.info](http://www.bobtrapp.info)
 
 ### Novels
 [Cordell's Rebellion](https://www.barnesandnoble.com/w/cordells-rebellion-bob-trapp/1129047111?ean=9781538085462)
+
 [Hour of Consequence](https://www.barnesandnoble.com/w/hour-of-consequence-bob-trapp/1132029535?ean=9781987086607)
 
 <!--
