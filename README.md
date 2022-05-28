@@ -1,6 +1,22 @@
-### Bob Trapp
+## Bob Trapp
+
+> Automate everything!
+
+### Area of Expertise
+
+OMG-OCUP2 Foundation (UML)
+Oracle Certified Associate, Java SE 8 Programmer I
+MySQL Certified Developer
+
+Relational Database Development
+Python
+Curriculum Development
+
+### Links
 
 [Linked In](https://www.linkedin.com/in/bobtrapp/)
+
+
 
 <!--
 **bobtrapp/bobtrapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
